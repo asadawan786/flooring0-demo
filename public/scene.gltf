@@ -1,0 +1,366 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 10484,
+      "max": [
+        0.33611300587654114,
+        0.97022300958633423,
+        0.31254199147224426
+      ],
+      "min": [
+        -0.33611300587654114,
+        0.13295899331569672,
+        -0.53330200910568237
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 125808,
+      "componentType": 5126,
+      "count": 10484,
+      "max": [
+        0.99999934434890747,
+        0.99999326467514038,
+        0.99999886751174927
+      ],
+      "min": [
+        -0.99971038103103638,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 10484,
+      "max": [
+        1,
+        0.99997574090957642,
+        0.99985545873641968,
+        1
+      ],
+      "min": [
+        -1,
+        -0.99997574090957642,
+        -0.99985533952713013,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 10484,
+      "max": [
+        0.99544697999954224,
+        0.9733390212059021
+      ],
+      "min": [
+        0.0024321600794792175,
+        0.0053572999313473701
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 53976,
+      "max": [
+        10483
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 251616,
+      "componentType": 5126,
+      "count": 1944,
+      "max": [
+        0.30271899700164795,
+        0.14370299875736237,
+        0.2397180050611496
+      ],
+      "min": [
+        -0.30271899700164795,
+        -0.00096099998336285353,
+        -0.28304201364517212
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 274944,
+      "componentType": 5126,
+      "count": 1944,
+      "max": [
+        0.99851489067077637,
+        1,
+        0.99851101636886597
+      ],
+      "min": [
+        -0.99851489067077637,
+        -1,
+        -0.98174422979354858
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 167744,
+      "componentType": 5126,
+      "count": 1944,
+      "max": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "min": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 215904,
+      "componentType": 5125,
+      "count": 11616,
+      "max": [
+        1943
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "BertO (https://sketchfab.com/bertosalotti)",
+      "license": "CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)",
+      "source": "https://sketchfab.com/models/c8179749859f499da9bd23fc06cbe23b",
+      "title": "Vanessa Capitonnè Armchair"
+    },
+    "generator": "Sketchfab-3.20.7",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 262368,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 83872,
+      "byteOffset": 262368,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 298272,
+      "byteOffset": 346240,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 198848,
+      "byteOffset": 644512,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 843360,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "./textures/Pelle_baseColor.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Pelle",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.90000000000000002
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "gambe_vanessa",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.30161739999999998,
+          0.30159744999999999,
+          0.30160884999999998,
+          1
+        ],
+        "metallicFactor": 0.94999999999999996,
+        "roughnessFactor": 0.25
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Material-Pelle",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Material-gambe_vanessa",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7
+          },
+          "indices": 8,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3,
+        6
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        -4.3711390063094768e-08,
+        0.999999999999999,
+        0,
+        0,
+        -0.999999999999999,
+        -4.3711390063094768e-08,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "Collada visual scene group"
+    },
+    {
+      "children": [
+        4,
+        5
+      ],
+      "name": "Vanessa_capitonne"
+    },
+    {
+      "mesh": 0,
+      "name": "Material-Pelle"
+    },
+    {
+      "mesh": 1,
+      "name": "Material-gambe_vanessa"
+    },
+    {
+      "children": [
+        7
+      ],
+      "name": "Render"
+    },
+    {
+      "name": "Render"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
+
